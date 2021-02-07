@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.666" height="29.606" viewBox="0 0 24.666 29.606">
+  <g id="android" transform="translate(-42.727)">
+    <g id="Group_3" data-name="Group 3" transform="translate(42.727 0)">
+      <path id="Path_7" data-name="Path 7" d="M44.577,170.787a1.85,1.85,0,0,0-1.85,1.85v8.633a1.85,1.85,0,1,0,3.7,0v-8.633A1.85,1.85,0,0,0,44.577,170.787Z" transform="translate(-42.727 -160.914)" fill="#4caf50"/>
+      <path id="Path_8" data-name="Path 8" d="M407.243,170.787a1.85,1.85,0,0,0-1.85,1.85v8.633a1.85,1.85,0,0,0,3.7,0v-8.633A1.85,1.85,0,0,0,407.243,170.787Z" transform="translate(-384.427 -160.914)" fill="#4caf50"/>
+      <path id="Path_9" data-name="Path 9" d="M142.243,170.787H128.677a.617.617,0,0,0-.617.617v9.866a3.083,3.083,0,0,0,2.467,3.022v4.378a1.85,1.85,0,0,0,3.7,0v-4.317h2.467v4.317a1.85,1.85,0,0,0,3.7,0v-4.378a3.083,3.083,0,0,0,2.467-3.022V171.4A.617.617,0,0,0,142.243,170.787Z" transform="translate(-123.127 -160.914)" fill="#4caf50"/>
+      <path id="Path_10" data-name="Path 10" d="M139.941,2.562l1.5-1.5a.617.617,0,0,0-.857-.887l-.015.015L138.822,1.94a8.44,8.44,0,0,0-6.725,0L130.345.187a.617.617,0,0,0-.872.872l1.5,1.5a6.508,6.508,0,0,0-2.917,5.461.617.617,0,0,0,.617.617h13.566a.617.617,0,0,0,.617-.617A6.508,6.508,0,0,0,139.941,2.562Z" transform="translate(-123.125 0)" fill="#4caf50"/>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(51.36 4.94)">
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="0.617" cy="0.617" r="0.617" fill="#fafafa"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="0.617" cy="0.617" r="0.617" transform="translate(6.166)" fill="#fafafa"/>
+    </g>
+  </g>
+</svg>
